@@ -25,4 +25,4 @@ This repository contains my assignments for the Visual Programming course, inclu
 - Validations and checkbox implementation
 - Bonus: Sound effects for interaction
 
-[See more](./Assignment2_TaskApp/README.md)
+[See more](visual-programming-assignments/Assignment2_TaskApp/README.md)
