@@ -19,7 +19,7 @@ This Java Swing application manages user sign-up and task entry using multiple p
 
 ## 🚀 How to Run
 
-### 🧩 Option 1: Run the precompiled JAR file
+### 🧩Run the precompiled JAR file
 ```bash
 cd Assignment2_TaskApp
 java -jar app.jar
