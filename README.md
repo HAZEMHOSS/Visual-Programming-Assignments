@@ -14,7 +14,7 @@ This repository contains my assignments for the Visual Programming course, inclu
 - Popup display of result
 - Button hover effect
 
-[See more](visual-programming-assignments)
+[See more](visual-programming-assignments/Assignment1_SimpleCalculator/README.md)
 
 ---
 
